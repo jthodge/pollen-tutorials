@@ -1,0 +1,5 @@
+#lang pollen
+
+<body style="margin: 5em; border: 1px solid black">
+5em is the inset margin.
+</body>
