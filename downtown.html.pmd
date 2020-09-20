@@ -1,8 +1,9 @@
 #lang pollen
+◊(define metal "Plutonium")
 
-Pollen + Markdown
+Pollen + ◊metal
 -----------------
 
-+ You **wanted** it — you _got_ it.
++ You **wanted** ◊metal — you _got_ it.
 
-+ [search for Racket](https://google.com/search?q=racket)
++ [search for ◊metal](https://google.com/search?q=◊metal)
